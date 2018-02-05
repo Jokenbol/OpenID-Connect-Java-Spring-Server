@@ -372,7 +372,8 @@
 	"sidebar": {
 		"administrative": {
 			"title": "Administrativt",
-			"manage_clients": "Hantera klienter",
+            "manage_clients": "Hantera klienter",
+            "manage_users": "Hantera användare",
 			"whitelisted_clients": "Vitlistade klienter",
 			"blacklisted_clients": "Svartlistade klienter",
 			"system_scopes": "System-scope"

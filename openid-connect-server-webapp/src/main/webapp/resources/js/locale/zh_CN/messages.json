@@ -415,6 +415,7 @@
         "administrative": {
             "title": "管理",
             "manage_clients": "管理客户端",
+            "manage_users": "管理用户",
             "whitelisted_clients": "白名单",
             "blacklisted_clients": "黑名单",
             "system_scopes": "系统范围"
